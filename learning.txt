@@ -1,0 +1,40 @@
+supervise learning
+unsupervise learning
+reinforcement learning
+
+1.system have a knowledge .... feature and label.
+2. where only feature
+it is technics where only feature 
+3.reward base traning is called reinforcement learning
+eg.
+data are two type classification and regration in
+machine learning
+(hackathon)
+KNN-K Nearest Neighbor
+man haten
+equliden distance
+hamigton
+
+under root(observe - actual)**2 + (ob-act)**2
+
+python algorithms for execution for test
+
+step1 .import library
+step2. divide data by train text split
+3.create 
+4. train to machine 
+5.predict the output
+6.
+
+
+
+
+
+
+
+
+
+
+
+
+
